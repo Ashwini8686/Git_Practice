@@ -1,0 +1,3 @@
+This is my first lab
+for git version and github 
+lectures are teaching the basic commanda of git
